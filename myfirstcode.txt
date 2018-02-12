@@ -1,3 +1,9 @@
 adding new line to newtextfile...:1w
 
-this this is my firt coding file
+
+
+thjdshjs
+
+changes from DEv-2
+
+his this is my firt coding file
